@@ -6,15 +6,15 @@ Hello, and welcome to learning Go! It's great to have you here.
 
 ## What's this?
 
-This is a set of introductory exercises in Go programming, suitable for complete beginners. If you don't know anything about Go yet, or programming, but would like to learn, you're in the right place! It will help if you have some experience in writing tests in Go, and if you'd like to find out more about that first, try the [For the Love of Go: Fundamentals](https://github.com/bitfield/ftl-fundamentals) exercises. Then come back and try these!
+This is a set of introductory exercises in Go programming, suitable for complete beginners. If you don't know anything about Go yet, or programming, but would like to learn, you're in the right place! It will help if you have some experience in writing tests in Go, and if you'd like to find out more about that first, try the [For the Love of Go](https://bitfieldconsulting.com/books/love) book.
 
 (If you do already know something about Go, you should find these exercises relatively straightforward, but still worth doing.)
 
 ## Is there an ebook to accompany these exercises?
 
-Absolutely. [For the Love of Go: Data](https://bitfieldconsulting.com/books/data) is a downloadable ebook which guides you through every step of the process, from installing Go to explaining Go's basic data types, struct types, slices, and so on. It will guide you through solving each of these exercises in detail.
+Absolutely. [For the Love of Go](https://bitfieldconsulting.com/books/love) is a downloadable ebook which guides you through every step of the process, from installing Go to explaining Go's basic data types, struct types, slices, and so on. It will guide you through solving each of these exercises in detail.
 
-[![](img/cover_small.png)](https://bitfieldconsulting.com/books/data)
+[![](img/cover_small.png)](https://bitfieldconsulting.com/books/love)
 
 You don't need to buy the book to work through these exercises, though it'll definitely help! But if you do buy it, you'll be helping support me and my work, including developing new exercises and books, and mentoring people from non-traditional backgrounds to help them into tech and software development careers. Which would be amazing! You can also [sponsor me on GitHub](https://github.com/sponsors/bitfield).
 
@@ -359,9 +359,7 @@ You know how to design these things now: by writing user stories, using an MVP t
 
 Yes. You can buy the book, which covers all the exercises in much more detail, including a complete step-by-step guide to solving them, here:
 
-* [For the Love of Go: Data](https://bitfieldconsulting.com/books/data)
-
-It's priced at just $4.99, which is the least I can possibly charge for it and still keep the lights on and food on the table. Because it's self-published, you can buy it in the knowledge that every penny goes directly to support my writing more Go books! (Well, 45 pennies go to Stripe for the card transaction, or 68 pennies if you pay by PayPal, but you know what I mean.)
+* [For the Love of Go](https://bitfieldconsulting.com/books/love)
 
 ## Mailing list
 
